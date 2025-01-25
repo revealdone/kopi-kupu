@@ -439,6 +439,8 @@ body {
 }
 
 .products .product-icons a {
+  position: relative;
+  z-index: 10;
   width: 4rem;
   height: 4rem;
   color: #fff;
